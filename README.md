@@ -7,7 +7,6 @@ Wanderlust is a full-stack web application inspired by Airbnb. Users can browse,
 ## 🚀 Live Demo
 
 🔗 **[View the Deployed App](https://wanderlust-hzkh.onrender.com/)**  
-*(Replace this link with your actual deployed app URL)*
 
 ---
 
