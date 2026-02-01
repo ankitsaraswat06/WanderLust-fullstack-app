@@ -1,6 +1,6 @@
-# 🌍 Wanderlust – Airbnb Clone
+# 🌍 Wanderlust
 
-Wanderlust is a full-stack web application inspired by Airbnb. Users can browse, create, update, and delete campground-style listings with image uploads, descriptions, and location details. It features secure authentication, user-friendly design, and full CRUD functionality.
+Wanderlust is a full-stack rental listing web application. Users can browse, create, update, and delete campground-style listings with image uploads, descriptions, and location details. It features secure authentication, user-friendly design, and full CRUD functionality.
 
 ---
 
